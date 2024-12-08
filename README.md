@@ -102,4 +102,4 @@ O código está estruturado em um único arquivo `.ino`. Para projetos maiores, 
 ---
 
 ## 📚 Datasheets
-Os datasheets dos componentes usados neste projeto estão na pasta [docs/datasheets/](docs/datasheets/).
+Os datasheets dos componentes usados neste projeto estão na pasta [datasheets/](datasheets/).
