@@ -49,7 +49,7 @@ Este projeto utiliza um Arduino Uno para controlar um braço robótico composto 
 | Servo            | Pino Arduino |
 |-------------------|--------------|
 | MG995            | 9            |
-| MG996 (braço)    | 11           |
+| MG995 (braço)    | 11           |
 | MG996 (base)     | 10           |
 | SG90 (garra)     | 5            |
 
